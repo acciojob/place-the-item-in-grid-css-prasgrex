@@ -1,8 +1,5 @@
 .holder{
 	display:grid;
-	grid-template-rows: repeat(2, 200px);
-		grid-template-columns: repeat(2, 100px);
-/* 	background-color:aqua;
-	color:blue; */
-	
+	grid-template-rows: repeat(2, 100px);
+	grid-template-columns: repeat(2, 100px);
 }
